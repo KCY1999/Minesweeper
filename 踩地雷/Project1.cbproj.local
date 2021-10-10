@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/24 16:22:06.000.819,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/02/24 16:22:06.000.663,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/04 21:06:51.000.474,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/04 21:06:52.000.250,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/04 21:07:47.000.437,C:\Users\andyg\Desktop\C++\踩地雷\Unit1.cpp=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/04 21:07:47.000.437,C:\Users\andyg\Desktop\C++\踩地雷\Unit1.dfm=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/09/04 21:07:47.000.437,C:\Users\andyg\Desktop\C++\踩地雷\Unit1.h=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/09/04 21:07:50.000.086,C:\Users\andyg\Desktop\C++\踩地雷\Project1PCH1.h=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/04 21:07:51.000.259,C:\Users\andyg\Desktop\C++\踩地雷\Project1.cbproj=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
